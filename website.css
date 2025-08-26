@@ -64,6 +64,7 @@ img {
 }
 
 .skills-list{
+    padding: 20px 40px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -71,7 +72,6 @@ img {
 }
 
 .skills-column {
-    flex: 1;
     padding: 10px;
 }
 
